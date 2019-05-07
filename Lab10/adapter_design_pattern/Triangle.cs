@@ -9,6 +9,11 @@ namespace adapter_design_pattern
     class Triangle : GeometricShape
     {
 
+        public Triangle(int a,int b,int c)
+        {
+
+        }
+
       
         public double area()
         {
